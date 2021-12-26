@@ -60966,10 +60966,10 @@
     },
     {
       "chainId": 101,
-      "address": "23nmnhDu76zWf929kqmoz5KQKAdYn8CAEk3jELrjxT1e",
-      "symbol": "SIRA",
-      "name": "Scira",
-      "decimals": 0,
+      "address": "DkbPcS3ik99FL2Rxw8PPyXTGjByyU2jyZQTbpDrCwaP8",
+      "symbol": "SKAR",
+      "name": "Skylar",
+      "decimals": 9,
       "logoURI": "https://github.com/catdogmat/SciraLogo/blob/0185b20bd68f2eb01aa33cbe23ad4aa8bf80db65/logo.png",
       "tags": [
         "science-token"
